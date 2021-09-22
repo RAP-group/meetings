@@ -1,0 +1,17 @@
+20210923  
+
+## This week
+
+- guidelines/code of conduct
+- resources
+- github
+  - projects
+  - repos
+- Empathy
+  - HLS
+  - CASPSLaP (Current Approaches to Spanish and Portuguese Second Language Phonology)
+
+## Next week
+
+- HLS presentation
+- CASPSLaP abstract
