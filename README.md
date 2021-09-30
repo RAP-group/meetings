@@ -1,22 +1,19 @@
-Last update: 2021-09-21 23:18:34
+Last update: 2021-09-30 00:07:40
 
 # This weeks agenda
 
-20210923
+20210930
 
 ## This week
 
--   guidelines/code of conduct
--   resources
--   github
-    -   projects
-    -   repos
 -   Empathy
-    -   HLS
-    -   CASPSLaP (Current Approaches to Spanish and Portuguese Second
-        Language Phonology)
+    -   CASPSLaP abstract
+        -   read
+        -   edit
+        -   submit
+    -   HLS presentation
+        -   plan for comments, ideas
 
 ## Next week
 
 -   HLS presentation
--   CASPSLaP abstract
