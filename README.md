@@ -1,18 +1,14 @@
-Last update: 2021-10-10 05:23:27
+Last update: 2021-10-21 12:48:24
 
 # This weeks agenda
 
-20210930
+20211021
 
 ## This week
 
--   Discuss HLS
--   Next steps for empathy project
-    -   Journals
-        -   <https://www.cambridge.org/core/journals/applied-psycholinguistics/information/instructions-contributors>
-        -   <https://onlinelibrary.wiley.com/page/journal/14679922/homepage/forauthors.html>
-    -   CASPSLaP presenter(s)
+-   Intro outline
+-   <https://lps.library.cmu.edu/LDR/site/aboutjournal/?fbclid=IwAR3xSZ0YeoAGt1j5Q0gLRzTkIFMmdZHTVJr2xoLy40_f4Z-lmF8CzOX0yGQ>
 
 ## Next week
 
--   Intro outline, draft
+-   Intro draft
