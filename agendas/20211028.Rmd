@@ -1,0 +1,10 @@
+20211028  
+
+## This week
+
+- talk about intro draft
+- references and cross-references: bibtex, rmarkdown and bookdown 
+
+## Next week
+
+- Intro draft
