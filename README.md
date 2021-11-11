@@ -1,14 +1,15 @@
-Last update: 2021-10-27 01:33:25
+Last update: 2021-11-11 16:41:21
 
 # This weeks agenda
 
-20211028
+20211111
 
 ## This week
 
--   talk about intro draft
--   references and cross-references: bibtex, rmarkdown and bookdown
+-   branches in github repos
 
 ## Next week
 
--   Intro draft
+-   presentation from Kyle
+-   intro draft
+-   method draft
