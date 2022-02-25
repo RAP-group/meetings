@@ -1,15 +1,26 @@
-Last update: 2021-11-11 16:41:21
+Last update: 2022-02-25 11:33:30
 
 # This weeks agenda
 
-20211111
+20220211
 
 ## This week
 
--   branches in github repos
+-   New member
+-   Share Juanjo info
+-   Aresty update
+-   Review CASPSLaP
+-   RAP group plans
+    -   Short term goals
+        -   individual
+        -   lab
+            -   Plan next project, brainstorm ideas
+    -   Long(er) term goals
+        -   ultrasound setup
+        -   sound booth furniture
+-   Meetings (day, time)
 
 ## Next week
 
--   presentation from Kyle
--   intro draft
--   method draft
+-   Make decisions about next project
+-   Set dates for semester/summer
