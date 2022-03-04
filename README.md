@@ -1,4 +1,4 @@
-Last update: 2022-03-03 21:16:14
+Last update: 2022-03-04 10:21:20
 
 # This weeks agenda
 
@@ -6,6 +6,9 @@ Last update: 2022-03-03 21:16:14
 
 ## This week
 
+-   website updates
+-   blog post drafts
+-   equipment xmas list
 -   Make decisions about next project
 
 ## Replication in Second Language Research
