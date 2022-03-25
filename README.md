@@ -1,116 +1,17 @@
-Last update: 2022-03-04 10:21:20
+Last update: 2022-03-25 10:46:21
 
 # This weeks agenda
 
-20220304
+202203025
 
 ## This week
 
--   website updates
--   blog post drafts
--   equipment xmas list
--   Make decisions about next project
+-   SSLA replication repo
+-   VOTE results
+-   Paper details, concerns
+-   Proposal, trackdown
+-   Citation gecko (<https://citationgecko.azurewebsites.net>)
 
-## Replication in Second Language Research
+## Next week
 
-### Special Issue of Studies in Second Language Acquisition, September 2024
-
-Call for Proposals  
-Due April 1, 2022
-
-Guest Editor: Kevin McManus (Penn State University, USA)
-
-In 1993, Studies in Second Language Acquisition (SSLA) launched a new
-section of the journal titled Replication Studies, recognizing that “the
-way to more valid and reliable SLA research is through replication”
-(Valdman, 1993, p. 505). This innovation is as important today as it was
-in 1993, especially given that discussions of methodological rigor and
-transparency are changing how SLA research is designed, conducted, and
-disseminated. To highlight the role of replication studies in the growth
-and development of the discipline and to re-affirm the journal’s
-long-standing commitment to publishing replication studies, SSLA will
-publish a Special Issue consisting entirely of (close and approximate)
-replication studies in 2024.
-
-As a research methodology, replication is used to verify, consolidate,
-and advance knowledge and understanding within empirical fields of
-study. A replication study works toward this goal by repeating a study’s
-methodology with or without changes followed by systematic comparison to
-better understand the nature, repeatability, and generalizability of its
-findings (Porte & McManus, 2019; Schmidt, 2009). In this way,
-replication helps assure the reliability, validity, and accuracy of our
-work precisely because it aims to systematically reconsider, refine,
-extend, and sometimes limit previous research findings. This is why
-replication has long been considered an essential part of the research
-process (Peterson & Panofsky, 2021; Porte, 2012). As a result, claims
-that replication studies are infrequent are majorly troubling (Marsden
-et al., 2018; Porte & Richards, 2012), indicative of an uncritical
-approach to how a field accumulates knowledge and builds theories. This
-is one reason why calls for replication are becoming more common across
-the social sciences (Plucker & Makel, 2021; Zwaan et al., 2018), and why
-resources are needed to support the conduct of replication studies in
-our field (Marsden et al., 2018; McManus, 2021; Porte & McManus, 2019).
-
-This Special Issue responds to this need in the field of SLA. Proposals
-must include:
-
--   Study to be replicated and justification
--   Type of replication
--   What is being modified in the replication and why?
--   Design of replication study
--   Analysis of data
--   Impact
-
-Successful proposals for this Special Issue will meet the following
-criteria:
-
-**Study to be replicated and justification**  
-The study to be replicated should have had an impact on subsequent
-empirical and/or theoretical work in the field of SLA. A justification
-should be provided for why the study has been selected for replication.
-
-**Type of replication**  
-The proposal should describe and motivate the approach to replication
-(exact, close, approximate, conceptual \[Porte & McManus, 2019\]). While
-all approaches to replication will be considered, preference will be
-given to close or approximate replication studies in which one or
-maximally two major variables have been modified.
-
-**Variable modification**  
-The variable(s) selected for modification should be described and a
-rationale should be provided for why the variables were selected and how
-they will be modified.
-
-**Design and availability of materials**  
-The design of the replication study should be described so that all
-major aspects of the methodology can be evaluated, including
-availability of the initial study’s materials.
-
-**Analysis**  
-The proposal should describe how the data will be analyzed and to what
-extent the procedures for data preparation and analysis are
-similar/different from the initial study.
-
-**Other differences (if relevant)**  
-All differences with the initial study should be identified. In order to
-communicate similarities and differences between the initial study and
-the replication, authors are recommended to use Brandt et al.’s (2014)
-Replication Recipe as a guide (available from: <https://osf.io/4jd46/>).
-
-**Impact**  
-Authors should make clear how the proposed replication has the potential
-to advance knowledge and understanding in the field of SLA.
-
-Proposals should not exceed four pages, double spaced, size 12 font
-(excluding references). The name and email contact of the primary author
-should be provided along with names of contributing authors. Proposal
-submissions are due by email to <ssla.journal@gmail.com> by April 1,
-2022.
-
-Other manuscript and production deadlines are as follows:
-
--   April 1, 2022: Proposals due in SSLA office
--   April 22, 2022: Final decision reached
--   July 1, 2023: Submission of first-draft manuscripts to SSLA via
-    ScholarOne (7,000 words, all inclusive)
--   July 1, 2024: All final manuscripts due, submitted via ScholarOne
+-   Send proposal
