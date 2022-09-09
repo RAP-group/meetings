@@ -1,17 +1,24 @@
-Last update: 2022-03-25 10:46:21
+Last update: 2022-09-09 11:53:51
 
 # This weeks agenda
 
-202203025
+20220909
 
 ## This week
 
--   SSLA replication repo
--   VOTE results
--   Paper details, concerns
--   Proposal, trackdown
--   Citation gecko (<https://citationgecko.azurewebsites.net>)
+-   Updates
+-   Goals for semester year
+-   Plans for semester year
+    -   empathy project
+    -   semantic processing project
+    -   transparency in hisp. ling.
+-   New people
+    -   github account
+    -   software installations
+-   Tutorials and workshops
+    -   lab equipment (booths, new computers, new software)
+    -   
 
 ## Next week
 
--   Send proposal
+-   Empathy plans
