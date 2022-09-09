@@ -1,4 +1,4 @@
-Last update: 2022-09-09 11:53:51
+Last update: 2022-09-09 13:10:43
 
 # This weeks agenda
 
@@ -15,9 +15,17 @@ Last update: 2022-09-09 11:53:51
 -   New people
     -   github account
     -   software installations
--   Tutorials and workshops
+-   Tutorials and workshops (ideas)
     -   lab equipment (booths, new computers, new software)
-    -   
+    -   r
+        -   writing with r
+        -   stats
+        -   power analysis
+    -   self promo
+        -   websites
+        -   cv
+    -   developing proposals
+    -   irb
 
 ## Next week
 
