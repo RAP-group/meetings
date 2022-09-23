@@ -1,32 +1,14 @@
-Last update: 2022-09-09 13:10:43
+Last update: 2022-09-23 11:41:06
 
 # This weeks agenda
 
-20220909
+20220923
 
 ## This week
 
--   Updates
--   Goals for semester year
--   Plans for semester year
-    -   empathy project
-    -   semantic processing project
-    -   transparency in hisp. ling.
--   New people
-    -   github account
-    -   software installations
--   Tutorials and workshops (ideas)
-    -   lab equipment (booths, new computers, new software)
-    -   r
-        -   writing with r
-        -   stats
-        -   power analysis
-    -   self promo
-        -   websites
-        -   cv
-    -   developing proposals
-    -   irb
+-   Github walk through
+-   Review and assign issue
 
 ## Next week
 
--   Empathy plans
+-   Empathy progress
