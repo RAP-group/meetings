@@ -1,13 +1,13 @@
-Last update: 2022-09-23 11:41:06
+Last update: 2022-09-30 11:54:16
 
 # This weeks agenda
 
-20220923
+20220930
 
 ## This week
 
--   Github walk through
--   Review and assign issue
+-   Empathy progress
+-   Github walk-throughs if necessary
 
 ## Next week
 
