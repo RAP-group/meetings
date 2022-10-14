@@ -1,13 +1,13 @@
-Last update: 2022-09-30 11:54:16
+Last update: 2022-10-14 10:32:05
 
 # This weeks agenda
 
-20220930
+20221014
 
 ## This week
 
--   Empathy progress
--   Github walk-throughs if necessary
+-   Empathy progress show and tell
+-   Psychopy demo (optional)
 
 ## Next week
 
