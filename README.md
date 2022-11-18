@@ -1,4 +1,4 @@
-Last update: 2022-11-18 10:25:22
+Last update: 2022-11-18 11:53:08
 
 # This weeks agenda
 
@@ -10,7 +10,6 @@ Last update: 2022-11-18 10:25:22
 - New projects
   - perception in noise RR (replication)
   - Open science
-  - Proficiency measures (compare tasks, varieties)
 - Meetings for rest of semester
 
 ## Next week

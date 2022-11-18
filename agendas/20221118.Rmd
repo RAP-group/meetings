@@ -6,7 +6,6 @@
 - New projects
   - perception in noise RR (replication)
   - Open science 
-  - Proficiency measures (compare tasks, varieties)
 - Meetings for rest of semester
 
 ## Next week
