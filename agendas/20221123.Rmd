@@ -1,19 +1,15 @@
-Last update: 2022-11-23 10:26:32
-
-# This weeks agenda
-
-20221123
+20221123  
 
 ## This week
 
-- Talk about next project(s):
+- Talk about next project(s): 
   - open science for grad students and advisors
   - companion website with tutorials
+
 - 2 articles
-  - open science explainer
-    ([here](https://online.ucpress.edu/collabra/article/7/1/18684/115927/Easing-Into-Open-Science-A-Guide-for-Graduate))
-  - data retrieval paper
-    ([here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0201856))
+  - open science explainer ([here](https://online.ucpress.edu/collabra/article/7/1/18684/115927/Easing-Into-Open-Science-A-Guide-for-Graduate))
+  - data retrieval paper ([here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0201856))
+
 - Org names
   - learn open science
   - open science hub for linguistics
@@ -24,11 +20,14 @@ Last update: 2022-11-23 10:26:32
   - os4al
   - osrrl
   - losr
+
 - Keywords
   - open science
   - reproducibility
   - applied linguistics
   - linguistics
+
+
 
 ## Next week
 
