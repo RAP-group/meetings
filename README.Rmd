@@ -6,7 +6,9 @@ always_allow_html: yes
 
 # This weeks agenda
 
-```{r, "get-children", echo=F}
+```{r}
+#| label: get-children
+#| echo: false
 children <- list.files(path = "agendas", pattern = ".Rmd", full.names = TRUE)
 
 i <- length(children)
@@ -14,4 +16,5 @@ children <- children[i]
 ```
 
 ```{r, child = children}
+#| label: load-children
 ```

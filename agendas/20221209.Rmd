@@ -1,8 +1,4 @@
-Last update: 2022-12-09 06:55:09
-
-# This weeks agenda
-
-20221209
+20221209  
 
 ## This week
 
@@ -18,8 +14,9 @@ Last update: 2022-12-09 06:55:09
     - outline
     - timetable
   - companion website with tutorials
-    - created
+    - created 
     - need ideas
+
 - Org names
   - claros (curating linguistics as a reproducible open science)
   - ok, but can be better
