@@ -1,8 +1,4 @@
-Last update: 2023-01-31 22:16:33
-
-# This weeks agenda
-
-20230201
+20230201  
 
 ## This week
 
@@ -11,7 +7,7 @@ Last update: 2023-01-31 22:16:33
 - Plans for this semester
 - Projects
   - guide to open science
-    - Kyle, Gabi, Ivan,
+    - Kyle, Gabi, Ivan, 
     - Need volunteers and outlines
     - Pair grad student with undergrad
   - data availability
