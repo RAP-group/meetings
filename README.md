@@ -1,4 +1,4 @@
-Last update: 2023-09-15 06:20:07.192902
+Last update: 2023-09-15 06:29:05.186837
 
 # This weeks agenda
 
@@ -28,10 +28,17 @@ Last update: 2023-09-15 06:20:07.192902
     - self promo
       - websites
       - cv
-  - FOSIL, transparency in hisp. ling.
-  - Phonetic drift in domestic immersion
-- Homework:
-  - get to know rap-group org
+  - Open projects
+    - FOSIL
+    - Guide to open science
+    - Transparency in hisp. linguistics
+    - Phonetic drift in domestic immersion
+- Homework: get to know rap-group org
+  - [guidelines (code of
+    conduct)](https://github.com/RAP-group/guidelines)
+  - [getting-started](https://github.com/RAP-group/getting_started)
+  - [open science
+    examples](https://github.com/RAP-group/examples_open_science)
 
 ## Next week
 
