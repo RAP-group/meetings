@@ -1,8 +1,4 @@
-Last update: 2023-09-15 06:20:07.192902
-
-# This weeks agenda
-
-20230915
+20230915  
 
 ## This week
 
@@ -30,7 +26,7 @@ Last update: 2023-09-15 06:20:07.192902
       - cv
   - FOSIL, transparency in hisp. ling.
   - Phonetic drift in domestic immersion
-- Homework:
+- Homework: 
   - get to know rap-group org
 
 ## Next week
