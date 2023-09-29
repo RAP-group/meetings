@@ -1,0 +1,14 @@
+20230922  
+
+## This week
+
+- Open projects
+  - FOSIL
+  - Guide to open science
+  - Transparency in hisp. linguistics
+  - Phonetic drift in domestic immersion
+
+## Next week
+
+- Pick project
+- Put info for website in github issue

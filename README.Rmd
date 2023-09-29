@@ -1,6 +1,6 @@
 ---
 output: github_document
-date: "Last update: `r Sys.time()`"
+date: "Last update: `r Sys.Date()`"
 always_allow_html: yes
 ---
 
