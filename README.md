@@ -23,6 +23,7 @@ Last update: 2023-10-20
     - reread Kathwalla et al, if necessary:
       [link](https://online.ucpress.edu/collabra/article/7/1/18684/115927/Easing-Into-Open-Science-A-Guide-for-Graduate)
     - [Guide to open science
-      repo](https://github.com/RAP-group/guide_to_open_science)
+      repo](https://github.com/RAP-group/guide_to_open_science), outline
+      [issue](https://github.com/RAP-group/guide_to_open_science/issues/1)
     - Google doc
       [outline](https://docs.google.com/document/d/1H016BLxxdoy8vd3NDkaKspHlaGZdzWfeet0UhylpdKY/edit?usp=sharing)
