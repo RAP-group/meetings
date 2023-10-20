@@ -2,14 +2,20 @@
 
 ## This week
 
-- FOSIL updates
+- HLS updates
 - status of website
-- outline for article
-- what to include/exclude
-- google doc for outline
+- FOSIL updates
+  - working with fosil site
+  - outline for article
+  - what to include/exclude
+  - google doc for outline
 
 ## Next week
 
 - No meeting (travel)
-- Comments on outline
-- Start translations
+- Independent work on FOSIL/article
+  - Start translations
+  - outline 
+    - reread Kathwalla et al, if necessary: [link](https://online.ucpress.edu/collabra/article/7/1/18684/115927/Easing-Into-Open-Science-A-Guide-for-Graduate)
+    - [Guide to open science repo](https://github.com/RAP-group/guide_to_open_science)
+    - Google doc [outline](https://docs.google.com/document/d/1H016BLxxdoy8vd3NDkaKspHlaGZdzWfeet0UhylpdKY/edit?usp=sharing)
