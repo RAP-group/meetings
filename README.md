@@ -15,3 +15,5 @@ Last update: 2023-11-17
 - No meeting (thanksgiving)
 - Following week (Dec 1st), check progress
 - Tentative finish date: Dec 15th
+- Pick journal
+- Talk about abstracts
