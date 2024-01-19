@@ -1,8 +1,4 @@
-Last update: 2024-01-19
-
-# This weeks agenda
-
-20240119
+20240119  
 
 ## This week
 
@@ -12,6 +8,7 @@ Last update: 2024-01-19
   - what?
   - how?
   - roles (lit review, file prep/organization, forced alignment)
+
 
 ## Next week
 
