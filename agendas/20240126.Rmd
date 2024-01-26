@@ -1,8 +1,4 @@
-Last update: 2024-01-26
-
-# This weeks agenda
-
-20240126
+20240126  
 
 ## This week
 
@@ -22,6 +18,7 @@ Last update: 2024-01-26
 - Create repo
   - structure
   - access
+
 
 ## Next week
 
