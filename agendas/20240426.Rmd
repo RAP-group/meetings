@@ -1,8 +1,4 @@
-Last update: 2024-04-26
-
-# This weeks agenda
-
-20240426
+20240426  
 
 ## This week
 
@@ -10,8 +6,7 @@ Last update: 2024-04-26
 - Rutgers Day update
   - April 27th
   - 10:00 - 16:00
-  - Sign up:
-    <https://docs.google.com/spreadsheets/d/1kuGF8z_UAJGa8HGofnG2omBGDIR8z_lFJVqaoSwStZ8/edit?usp=sharing>
+  - Sign up: https://docs.google.com/spreadsheets/d/1kuGF8z_UAJGa8HGofnG2omBGDIR8z_lFJVqaoSwStZ8/edit?usp=sharing
   - Seeing speech demo ideas
 - Phonetic drift project updates
   - summer plans
