@@ -2,11 +2,7 @@
 
 ## This week
 
-- Finished coding
-- Ready to start stats, review
-- Start slides, ./docs/slides/hls_2015/index.qmd
-- Start manuscript intro, ./docs/manuscripts/code_sharing/
-- hls descriptives update
+- cancelled
 
 ## Next week
 
